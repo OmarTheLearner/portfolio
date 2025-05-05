@@ -1,0 +1,16 @@
+X,S.P.500,Narcissus.Core.Equity.Sustainability.Fund,Pietro.Advisory.Sustainable.Large.Cap.ETF,Dow.Jones.U.S..Large.Cap.Total.Stock.Market.Index,S.P.500.Energy..Sector.,S.P.500.Utilities..Sector.,S.P.500.Comm.Service.,S.P.500.Cons.Disc.,S.P.500.Cons.Staples.,S.P.500.Financials..Sector.,S.P.500.Health.Care.,S.P.500.Industrials..Sector.,S.P.500.Info.Tech.,S.P.500.Materials..Sector.,S.P.500.Real.Estate.
+"Fossil Fuel Reserve Emissions (focal firm, per $1M invested)",428.57,0,48.92,890.84,11578.45,0,0,0,0,0,0,0,0,0,0
+"Carbon to Value Invested (1st-tier suppliers, per $1M invested)",46.19,22.71,44.47,79.52,301.7,404.22,7.05,17.49,70.89,13.67,7.95,108.34,5.04,237.1,11.64
+P/E,21.11,28.8,23.37,16.1,11.77,16.53,18.32,25.22,20.5,16,18.93,21.54,29.27,20.56,36.31
+Information Technology,31.4,36.4,28.57,12.9,0,0,0,0,0,0,0,0,100,0,0
+Financials,13.1,17.5,13.65,13.7,0,0,0,0,0,100,0,0,0,0,0
+Health Care,11.9,5.5,8.52,15,0,0,0,0,0,0,100,0,0,0,0
+Consumer Discretionary,10,5.2,6.89,7.5,0,0,0,100,0,0,0,0,0,0,0
+Communication Services,8.9,9.69,8.51,10.3,0,0,100,0,0,0,0,0,0,0,0
+Industrials,8.4,8.8,8.68,17.4,0,0,0,0,0,0,0,100,0,0,0
+Consumer Staples,5.8,5.8,5.72,10.4,0,0,0,0,100,0,0,0,0,0,0
+Energy,3.7,0,0.59,6.3,100,0,0,0,0,0,0,0,0,0,0
+Utilities,2.4,0,11.98,0,0,100,0,0,0,0,0,0,0,0,0
+Real Estate,2.3,3.2,2.22,0,0,0,0,0,0,0,0,0,0,0,100
+Materials,2.2,7.3,4.47,6.6,0,0,0,0,0,0,0,0,0,100,0
+Cash and other,NA,0.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
